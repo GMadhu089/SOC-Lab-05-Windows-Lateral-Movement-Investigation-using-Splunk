@@ -1,0 +1,4 @@
+index=*
+EventCode=5140
+| table_time host Account_Name share_Name Source_Address
+| sort- _time
