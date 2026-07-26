@@ -1,0 +1,1 @@
+# SOC-Lab-05-Windows-Lateral-Movement-Investigation-using-Splunk
