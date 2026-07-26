@@ -1,0 +1,5 @@
+index=*
+EventCode=4624
+LogonType=10
+|table_time host User Account_Name Source_Network_Address LogonType
+| sort - _time
