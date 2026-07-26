@@ -29,34 +29,6 @@ This lab focuses on investigating common Windows lateral movement techniques.
 
 ---
 
-# 🏢 SOC Scenario
-
-Company
-
-ABC Bank
-
-Role
-
-SOC Analyst L1
-
-Priority
-
-CRITICAL
-
-SOC Ticket
-
-SOC-0005
-
-Alert
-
-Potential Lateral Movement Activity Detected.
-
-A workstation initiated remote administrative activity toward another endpoint inside the corporate network.
-
-Investigate immediately.
-
----
-
 # 🖥️ Lab Environment
 
 | Component | Technology |
