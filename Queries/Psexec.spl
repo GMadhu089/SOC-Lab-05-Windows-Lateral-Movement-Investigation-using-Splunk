@@ -1,0 +1,4 @@
+index=sysmon
+CommandLine="*psexec*"
+| table_time host User ParentImage Image CommandLine
+| sort- _time
