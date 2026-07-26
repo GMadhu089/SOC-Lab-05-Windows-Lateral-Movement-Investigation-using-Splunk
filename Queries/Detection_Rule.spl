@@ -1,0 +1,9 @@
+(index=*
+EventCode=4624
+LogonType=10)
+OR
+(index=sysmon
+CommandLine="*psexec*")
+OR
+(index=*
+EventCode=5140)
